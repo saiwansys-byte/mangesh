@@ -1,4 +1,4 @@
 # Mangesh
-My projects
+My Projects
 <br>
 Author - Mangesh Saiwankar
