@@ -1,4 +1,4 @@
-# mangesh
+# Mangesh
 My projects
 <br>
-Author - Mangesh saiwankar
+Author - Mangesh Saiwankar
